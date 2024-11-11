@@ -1,5 +1,5 @@
 {
-  "/user-agent/page": "app/user-agent/page.js",
+  "/products/page": "app/products/page.js",
   "/page": "app/page.js",
-  "/products/page": "app/products/page.js"
+  "/user-agent/page": "app/user-agent/page.js"
 }
